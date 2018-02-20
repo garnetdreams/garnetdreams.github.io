@@ -281,8 +281,8 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: #00D3B7;
-			color: #00D3B7;
+			border-color: #0DB076;
+			color: #0DB076;
 		}
 
 			input[type="submit"]:hover:active,
@@ -1130,8 +1130,8 @@
 				position: absolute;
 				top: 50%;
 				left: 50%;
-				width: 100em;
-				height: 100em;
+				width: 75em;
+				height: 75em;
 				background-image: url("images/spinner.svg");
 				background-position: top;
 				background-repeat: no-repeat;
