@@ -1128,8 +1128,8 @@
 				content: '';
 				display: block;
 				position: absolute;
-				top: 50%;
-				left: 50%;
+				top: 100%;
+				left: 100%;
 				width: 3em;
 				height: 3em;
 				background-image: url("images/spinner.svg");
