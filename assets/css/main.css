@@ -136,7 +136,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #00D3B7;
+			color: #0DB076;
 		}
 
 	strong, b {
@@ -398,7 +398,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #00D3B7;
+			border-color: #0DB076;
 		}
 
 	.select-wrapper {
@@ -509,7 +509,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #00D3B7;
+			border-color: #0DB076;
 		}
 
 	input[type="checkbox"] + label:before {
