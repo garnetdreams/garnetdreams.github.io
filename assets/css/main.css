@@ -1117,7 +1117,7 @@
 			}
 
 			#viewer .slide:before {
-				-moz-animation: spinner 1s linear infinite;
+				-moz-animation: spinner 5s linear infinite;
 				-webkit-animation: spinner 1s linear infinite;
 				-ms-animation: spinner 1s linear infinite;
 				animation: spinner 1s linear infinite;
@@ -1135,7 +1135,7 @@
 				background-image: url("images/spinner.svg");
 				background-position: center;
 				background-repeat: no-repeat;
-				background-size: span;
+				background-size: fill;
 				margin: -1.5em 0 0 -1.5em;
 				opacity: 0;
 			}
